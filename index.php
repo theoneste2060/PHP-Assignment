@@ -7,6 +7,6 @@
     <title>Home | create account page</title>
 </head>
 <body>
-    <p>Hello world update</p>
+    <p>Hello world update all</p>
 </body>
 </html>
