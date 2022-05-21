@@ -10,7 +10,8 @@
     <link rel="stylesheet" href="style.css">
     <title>Home | create account page</title>
 </head>
-<body>
+<body class="mr-5 ml-5">
+    <div class="row pt1 pb-1" style="background:red; color:#fff;font-weight:600"><center>Assignment</center> </div>
     
 
 
