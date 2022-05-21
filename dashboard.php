@@ -59,7 +59,7 @@
     </div>
     <div class="col-md-4 " >
         <ul style="list-style:none; text-decoration:none">
-            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12" style="color:skyblue; font-size:20px">ACCOUNT SETTING</a></li>
+            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12" style="color:skyblue; font-size:20px">ACCOUNT SETTING </a></li>
             <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Edit profile</a></li>
             <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Change password</a></li>
             <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Sign in activities</a></li>
