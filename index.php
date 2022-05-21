@@ -42,8 +42,8 @@
                     </div>
                 </div>
             </div>
-            <div class=" d-flex flex-column text-center px-5 mt-3 mb-1"> </div> <button class="btn btn-primary btn-block confirm-button">Next</button><hr>
-            <div class=" d-flex flex-column text-center px-5 mt-3 mb-1"></div> <button class="btn btn-danger btn-block confirm-button">Continue with google</button>
+            <div class=" d-flex flex-column text-center px-5 mt-3 mb-1"> </div> <button class="btn rounded-pill btn-primary btn-block confirm-button">Next</button><hr>
+            <div class=" d-flex flex-column text-center px-5 mt-3 mb-1"></div> <button class="btn rounded-pill btn-danger btn-block confirm-button">Continue with google</button>
         <div> <a href="#" class="terms mt-3" style="color:red;"><center><b>Already have an account? SIGN IN</b></center></a> </div>
         </div>
     </div>

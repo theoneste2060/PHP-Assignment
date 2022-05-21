@@ -16,17 +16,16 @@
     <div class="card px-1 py-4">
         <div class="card-body">
             <h3 class="card-title mb-3 pb-3"><center><b>Welcome back!</b></center></h3>
-            <h6 class="card-title mb-3 pb-3"><center>Sign In</center></h6>
-            
+            <h6 class="card-title mb-3 pb-3"><center>Hi THEONESTE</center></h6>
+            <div class=" d-flex flex-column text-center px-1 mt-3 mb-1"> </div> <a class="btn rounded-pill btn-block" style="border:1px solid"><b>theoneneste2060@gmail.com</b></a>
            <div class="row">
                 <div class="col-sm-12">
                     <div class="form-group">
-                        <input class="form-control" type="text" placeholder="E-mail" name="email"> </div>
+                        <input class="form-control" type="password" placeholder="password" name="email"> </div>
                 </div>
             </div>
-            <div class=" d-flex flex-column text-center px-5 mt-3 mb-1"> </div> <button class="btn rounded-pill btn-primary btn-block confirm-button">Next</button><hr>
-            <div class=" d-flex flex-column text-center px-5 mt-3 mb-1"></div> <button class="btn rounded-pill btn-danger btn-block confirm-button">Continue with google</button>
-        <div> <a href="#" class="terms mt-3" style="color:skyblue;"><b>Create account</b></a> </div>
+            <div class=" d-flex flex-column text-center px-2 mt-3 mb-1"> </div> <button class="btn btn-primary rounded-pill btn-block confirm-button">Sign In</button>
+        <div> <a href="#" class="terms mt-3" style="color:red;"><b>Forgot password?</b></a> </div>
         </div>
     </div>
 </div>
