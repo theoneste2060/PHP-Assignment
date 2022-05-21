@@ -15,6 +15,13 @@
     
 
 
+    <div class="row pt1 pb-1" style="background:skyblue; color:#fff;font-weight:600">
+<div class="col-md-1">About us</div>
+<div class="col-md-1">Advertisement</div>
+<div class="col-md-6"><center>Kigali, Rwanda</center></div>
+<div class="col-md-2">How search work</div>
+<div class="col-md-1">Privacy</div>
+</div>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 </body>
 </html>
