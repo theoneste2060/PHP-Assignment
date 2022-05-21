@@ -13,7 +13,7 @@
 <body class="mr-5 ml-5">
 <div class="row pt1 pb-1" style="background:red; color:#fff;font-weight:600"><center>Assignment</center> </div>
 <div class="container mt-5 mb-5 d-flex justify-content-center">
-    <div class="card px-1 py-4">
+    <div class="card px-1 py-4" style="border:3px solid grey">
         <div class="card-body">
             <h3 class="card-title mb-3 pb-3"><center><b>Welcome back!</b></center></h3>
             <h6 class="card-title mb-3 pb-3"><center>Sign In</center></h6>
