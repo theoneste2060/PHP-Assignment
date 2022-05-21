@@ -12,9 +12,16 @@
 </head>
 <body class="mr-5 ml-5">
 <div class="row pt1 pb-1" style="background:red; color:#fff;font-weight:600"><center>Assignment</center> </div>
-<div class="row " style="display:fex; " >
-    <div class="col-md-8 bg-primary">
-        <div>profile picture </div>
+<div class="row pt-2 " style="display:fex; " >
+    <div class="col-md-8">
+        <div>
+        <div class="position-relative" style="height:25vh; background: url(Picture2.png); background-size: cover; background-repeat: no-repeat">
+        <span class="position-absolute bottom-0 start-0 ml-2">
+             <img class="img pt-5" src="Picture1.png" alt="">
+        </span>
+        </div>
+        
+    </div>
         <div>headline</div>
         <div>
             form
