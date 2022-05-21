@@ -11,7 +11,30 @@
     <title>Login </title>
 </head>
 <body class="mr-5 ml-5">
-
+<div class="row pt1 pb-1" style="background:red; color:#fff;font-weight:600"><center>Assignment</center> </div>
+<div class="row " style="display:fex; " >
+    <div class="col-md-8 bg-primary">
+        <div>profile picture </div>
+        <div>headline</div>
+        <div>
+            form
+        </div>
+    </div>
+    <div class="col-md-4 " >
+        <ul style="list-style:none; text-decoration:none">
+            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12" style="color:skyblue; font-size:20px">ACCOUNT SETTING</a></li>
+            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Edit profile</a></li>
+            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Change password</a></li>
+            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Sign in activities</a></li>
+            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Session timeout</a></li>
+            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Memolialization </a></li>
+            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Jobs feeds contents</a></li>
+            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Email and sms notifications</a></li>
+            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Push notification </a></li>
+            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Delete account</a></li>
+        </ul>
+    </div>
+</div>
 <div class="row pt1 pb-1" style="background:skyblue; color:#fff;font-weight:600">
 <div class="col-md-1">About us</div>
 <div class="col-md-1">Advertisement</div>
