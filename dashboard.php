@@ -49,7 +49,7 @@
                                     <input class="form-control" type="password" placeholder="password" name="password"> </div>
                             </div>
                         </div>
-                        <div> <input type="checkbox" class="terms mt-3" style="color:skyblue;">Remind me to change password for 3 months </div>
+                        <div> <input type="checkbox" class="terms mt-3" style="color:skyblue;">Remind me to change password for each 3 months </div>
                     <div class=" d-flex flex-column text-center  mt-2 mb-1"> </div> <button class="btn btn-primary btn-block confirm-button">Set new password</button>
         
         </div>
