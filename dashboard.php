@@ -12,7 +12,7 @@
 </head>
 <body class="mr-5 ml-5">
 <div class="row pt1 pb-1" style="background:red; color:#fff;font-weight:600"><center>Assignment</center> </div>
-<div class="row pt-2 " style="display:fex; " >
+<div class="row pt-2 " >
     <div class="col-md-8">
         <div class="">
         <div class="position-relative" style="height:25vh; background: url(Picture2.png); background-size: cover; background-repeat: no-repeat">
@@ -30,11 +30,11 @@
             <span>Software Engineer | Data analyst</span>
         </div>
         <div class="row ">
-        <a href="" class="btn border-danger border-top-0 border-right-0 border-left-0 bg-primary col-sm-12 mt-5" style="color:white; font-size:20px ;text-align:left; ">Change pasword</a>
+        <a href="" class="btn border-danger border-top-0 border-right-0 border-left-0 bg-primary col-sm-12 mt-1" style="color:white; font-size:20px ;text-align:left; ">Change pasword</a>
         </div>
-        <div class="container mt-5 mb-5 d-flex justify-content-center">
-            <div class="card px-1 py-4">
-                <div class="card-body">
+        <div class="container mt-2 mb-5 d-flex justify-content-center">
+            
+                <div class="card-body mr-5 ml-5">
                         <div class="row d-flex flex-row">
                         <div class="col-sm-6"><label for=""><b>Current password</b></label></div>
                             <div class="col-sm-6">
@@ -49,26 +49,32 @@
                                     <input class="form-control" type="password" placeholder="password" name="password"> </div>
                             </div>
                         </div>
-                        <div> <input type="checkbox" class="terms mt-3" style="color:skyblue;">Remind me to change password for 3 months </div>
-                    <div class=" d-flex flex-column text-center  mt-2 mb-1"> </div> <button class="btn btn-primary btn-block confirm-button">Set new password</button>
-        
+                        <div> <center><input type="checkbox" class="terms mt-3" style="color:skyblue;">Remind me to change password for each 3 months </center></div>
+                        <div class="row">
+                            <div class="col-sm-6">
+
+                            </div>
+                        <div class=" d-flex flex-column text-center  mt-2 mb-1 col-sm-6"> <button class="btn btn-primary btn-block confirm-button">Set new password</button></div> 
+
+                        </div>
+                </div> 
+             
         </div>
     </div>
 </div>
-    </div> 
-    </div>
+
     <div class="col-md-4 " >
         <ul style="list-style:none; text-decoration:none">
-            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12" style="color:skyblue; font-size:20px">ACCOUNT SETTING</a></li>
-            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Edit profile</a></li>
-            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Change password</a></li>
-            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Sign in activities</a></li>
-            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Session timeout</a></li>
-            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Memolialization </a></li>
-            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Jobs feeds contents</a></li>
-            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Email and sms notifications</a></li>
-            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Push notification </a></li>
-            <li><a href="" class="btn border border-primary border-botom bg-white col-sm-12">Delete account</a></li>
+            <li><a href="#" class="btn border-primary border-top-0 border-right-0 border-left-0 bg-white col-sm-12" style="color:skyblue; font-size:20px">ACCOUNT SETTING </a></li>
+            <li><a href="#" class="btn border-primary border-top-0 border-right-0 border-left-0 bg-white col-sm-12">Edit profile</a></li>
+            <li><a href="#" class="btn border-primary border-top-0 border-right-0 border-left-0 bg-white col-sm-12">Change password</a></li>
+            <li><a href="#" class="btn border-primary border-top-0 border-right-0 border-left-0 bg-white col-sm-12">Sign in activities</a></li>
+            <li><a href="#" class="btn border-primary border-top-0 border-right-0 border-left-0 bg-white col-sm-12">Session timeout</a></li>
+            <li><a href="#" class="btn border-primary border-top-0 border-right-0 border-left-0 bg-white col-sm-12">Memolialization </a></li>
+            <li><a href="#" class="btn border-primary border-top-0 border-right-0 border-left-0 bg-white col-sm-12">Jobs feeds contents</a></li>
+            <li><a href="#" class="btn border-primary border-top-0 border-right-0 border-left-0 bg-white col-sm-12">Email and sms notifications</a></li>
+            <li><a href="#" class="btn border-primary border-top-0 border-right-0 border-left-0 bg-white col-sm-12">Push notification </a></li>
+            <li><a href="#" class="btn border-primary border-top-0 border-right-0 border-left-0 bg-white col-sm-12">Delete account</a></li>
         </ul>
     </div>
 </div>
