@@ -12,11 +12,11 @@ if($_POST>0){
     $result = mysqli_query($con, $sql);
     if($result){
         $_SESSION['success']= 'Account created successfully!!';
-        header('Location: create.php');
+        header('Location: index.php');
     }
     else{
         $_SESSION['fail']= 'Failed to create account!!';
-        header('Location: create.php');
+        header('Location: index.php');
 
     }
 

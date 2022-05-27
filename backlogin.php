@@ -7,7 +7,7 @@ $row = mysqli_fetch_array($result);
 if(is_array($row)){
     $_SESSION['username'] = $row['em'];
     $_SESSION['lastname'] = $row['ln'];
-    header("Location:login-p.php");
+    header("Location:loginpass.php");
 
 }
 else{

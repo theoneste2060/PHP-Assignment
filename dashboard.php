@@ -1,3 +1,9 @@
+
+<?php
+session_start();
+?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -11,7 +17,14 @@
     <title>Login </title>
 </head>
 <body class="mr-5 ml-5">
-<div class="row pt1 pb-1" style="background:red; color:#fff;font-weight:600"><center>Assignment</center> </div>
+<div class="row pt1 pb-1" style="background:red; color:#fff;font-weight:600">
+     <div class="col-md-8"><center>Assignment</center></div>       
+     <div class="col-md-2"><img class="img ml-5" src="Picture1.png" alt="" width="15px"></div>       
+     <div class="col-md-2"><a href="logout.php" style="color:#fff; text-decoration:none;">Log Out</a></div>       
+
+
+        
+ </div>
 <div class="row pt-2 " >
     <div class="col-md-8">
         <div class="">

@@ -6,7 +6,7 @@ $result = mysqli_query($con, "SELECT `em`,`pw` FROM `users` WHERE pw ='". $_POST
 $row = mysqli_fetch_array($result);
 if(is_array($row)){
     $_SESSION['password'] = $row['pw'];
-      header("Location:dash.php");  
+      header("Location:dashboard.php");  
     
 }
 else{
