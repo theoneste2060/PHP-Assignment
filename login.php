@@ -22,6 +22,12 @@ session_start();
     <div class="card px-1 py-4" style="border:3px solid grey">
         <div class="card-body">
             <form action="backlogin.php" method="post">
+               <div style="color: red;">
+               <center><?php if(isset( $_SESSION['invalid'])) echo  $_SESSION['invalid'] ?></center>
+               </div>
+               <div style="color: red;">
+               <center><?php if(isset( $_SESSION['invalid-p'])) echo  $_SESSION['invalid-p']?></center>
+               </div>
             <h3 class="card-title mb-3 pb-3"><center><b>Welcome back!</b></center></h3>
             <h6 class="card-title mb-3 pb-3"><center>Sign In</center></h6>
             
@@ -34,7 +40,10 @@ session_start();
             <div class=" d-flex flex-column text-center px-5 mt-3 mb-1"> </div> <button class="btn rounded-pill btn-primary btn-block confirm-button">Next</button><hr>
             <div class=" d-flex flex-column text-center px-5 mt-3 mb-1"></div> <button class="btn rounded-pill btn-danger btn-block confirm-button">Continue with google</button>
         <div> <a href="index.php" class="terms mt-3" style="color:skyblue;"><b>Create account</b></a> </div>
-        </form>    
+        </form> 
+        <?php
+        session_destroy();
+       ?>
     </div>
     </div>
 </div>
